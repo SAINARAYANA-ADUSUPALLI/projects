@@ -22,4 +22,4 @@ some points regrading to credit card classification that are:
 
 10. Customer Segments: Credit cards can be tailored to different customer segments, such as consumers, small businesses, corporate entities, or specific industries. Classification can be based on the target customer group.
 
-It's important to note that credit card classification may vary across different financial institutions and countries, as regulations, market dynamics, and consumer preferences play a significant role in determining the specific categories and features of credit cards.
+these are some main points to consideration for giving the credit score 
